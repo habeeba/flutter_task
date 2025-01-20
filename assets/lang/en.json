@@ -1,0 +1,17 @@
+{
+  "welcome_lbl": "Welcome to Items Dashboard",
+  "items_dashboard_title": "Items Dashboard",
+  "click_button_lbl": "Click the button below to load your items",
+  "load_data_btn_lbl": "Load Data",
+  "reload_data_btn_lbl": "Reload Data",
+  "loading_msg": "Loading items...",
+  "no_items_found_title": "No items found.",
+  "no_items_found_description": "No items found. Use the button above to Try again.",
+  "no_items_loaded_title": "No items Loaded.",
+  "no_items_loaded_description": "No items loaded yet. Use the button above to load items.",
+  "loading_items": "Loading items...",
+  "loading": "Loading...",
+  "error_title": "Error",
+  "success_title": "Success",
+  "no_internet_error": "No internet connection"
+}
